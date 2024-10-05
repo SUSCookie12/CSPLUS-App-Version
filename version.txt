@@ -1,2 +1,2 @@
 Version: 7.0.0
-DownloadURL: https://youtube.com
+DownloadURL: https://github.com/SUSCookie12/CSPLUS-App-Version/releases/download/CSPLUS/CSPLUS.V7.Installer.exe
